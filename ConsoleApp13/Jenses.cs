@@ -10,7 +10,7 @@ namespace ConsoleApp13
     {
         public void print()
         {
-            Console.WriteLine("Jensesdf");
+            Console.WriteLine("Jensesdff");
 
         }
     }
