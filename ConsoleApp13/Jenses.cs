@@ -13,5 +13,10 @@ namespace ConsoleApp13
             Console.WriteLine("Jensesdff");
 
         }
+        public void print2()
+        {
+            Console.WriteLine("Jensesdff");
+
+        }
     }
 }
