@@ -8,5 +8,10 @@ namespace ConsoleApp13
 {
     internal class Jenses
     {
+        public void print()
+        {
+            Console.WriteLine("Jenses");
+
+        }
     }
 }
